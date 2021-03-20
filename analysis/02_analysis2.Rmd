@@ -1,0 +1,15 @@
+---
+title: "02_analysis2"
+author: "Dosoko"
+date: "2021-03-20"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
